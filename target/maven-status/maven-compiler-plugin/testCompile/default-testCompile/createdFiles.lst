@@ -1,0 +1,5 @@
+DataProvider\dataProvider.class
+Tests\StepDefinitions\SearchStepsDefinitions.class
+Tests\StepDefinitions\ResultsPageStepsDefinitions.class
+Pages\HomePage.class
+Tests\TestRunner.class
